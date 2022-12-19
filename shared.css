@@ -60,6 +60,7 @@ body {
   height: 100%;
   background-color: rgb(29,26,27);
   display: none;
+  opacity: 0.9;
 }
 #side-drawer:target {
   display: block;
